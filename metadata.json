@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Recorder",
+  "description": "A professional AI-powered voice recorder for classrooms with real-time Chinese-English transcription, time-stamping, and automatic data protection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
